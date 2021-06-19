@@ -5,7 +5,7 @@
 
 ## Notes as I research on this:
 
-##Basics:
+## Basics:
 
 ### ROI
 - Region of interest, ability to remove part of image that we dont care about. 
